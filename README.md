@@ -27,7 +27,9 @@ Quession(2)
 #Quession(3)
 Write a C program to simulate wc command to count number of characters, words 
  and lines in a file.
+ 
  The Code:
+ 
  #include <stdio.h>
 #define MAX_LEN 1024
 
