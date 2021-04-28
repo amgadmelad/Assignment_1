@@ -16,6 +16,7 @@
  
  (5)To list all the files which starts with either a or A:
  ![4-2](https://user-images.githubusercontent.com/82906996/116477869-7e672780-a87d-11eb-8ce3-a9c8317c999c.png)
+ 
 (6)To count the number of files in the current directory:
 ![5](https://user-images.githubusercontent.com/82906996/116478113-df8efb00-a87d-11eb-9494-4ba2b086885d.png)
 
